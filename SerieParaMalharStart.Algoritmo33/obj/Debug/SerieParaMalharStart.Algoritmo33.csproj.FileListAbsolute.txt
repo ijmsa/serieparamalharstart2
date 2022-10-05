@@ -1,0 +1,8 @@
+C:\Users\alfa\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo33\bin\Debug\SerieParaMalharStart.Algoritmo33.exe.config
+C:\Users\alfa\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo33\bin\Debug\SerieParaMalharStart.Algoritmo33.exe
+C:\Users\alfa\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo33\bin\Debug\SerieParaMalharStart.Algoritmo33.pdb
+C:\Users\alfa\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo33\obj\Debug\SerieParaMalharStart.Algoritmo33.csproj.AssemblyReference.cache
+C:\Users\alfa\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo33\obj\Debug\SerieParaMalharStart.Algoritmo33.csproj.SuggestedBindingRedirects.cache
+C:\Users\alfa\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo33\obj\Debug\SerieParaMalharStart.Algoritmo33.csproj.CoreCompileInputs.cache
+C:\Users\alfa\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo33\obj\Debug\SerieParaMalharStart.Algoritmo33.exe
+C:\Users\alfa\source\repos\SerieParaMalharStart\SerieParaMalharStart.Algoritmo33\obj\Debug\SerieParaMalharStart.Algoritmo33.pdb
